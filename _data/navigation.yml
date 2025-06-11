@@ -1,9 +1,9 @@
 main:
-  - title: "Data Science"
-    url: /data/
+  - title: "Posts"
+    url: /posts/
   - title: "Cyber Security"
     url: /cyber/
-  - title: "Publications"
-    url: /publications/
+  - title: "Projects"
+    url: /projects/"
   - title: "Conferences"
     url: /conferences/
