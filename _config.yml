@@ -60,19 +60,13 @@ author:
   avatar : "/assets/images/photo.jpg"
   bio    : "Enter the void"
   links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/pessy-kapere/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kachizi"
-    - label: "Cyber Shujaa"
-      icon: "fas fa-shield-alt"
-      url: "https://cybershujaa.co.ke/"
-
+    
 footer:
   links:
     - label: "LinkedIn"
@@ -81,10 +75,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kachizi"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=CLzA3BQAAAAJ&hl=en"
-
+    
 defaults:
   # _posts
   - scope:
