@@ -1,9 +1,9 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Cyber Security"
-    url: /cyber/
   - title: "Projects"
     url: /projects/"
+  - title: "Cyber Security"
+    url: /cyber/
   - title: "Conferences"
     url: /conferences/
